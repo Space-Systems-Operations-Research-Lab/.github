@@ -45,8 +45,7 @@ Our research is actively applied across a variety of cutting-edge space domains:
 * **Cislunar Space**
 * **On-Orbit Servicing & Space Logistics**
 
-### Lab Overview
-[**Lab Overview**](assets/SSORL_2026_QuadChart.pdf)
+[**Lab Overview**](assets/ssorl_2026_quadchart.png)
 
 ---
 
@@ -63,6 +62,6 @@ Our research is actively applied across a variety of cutting-edge space domains:
 
 ## Connect with Us
 
-*Feel free to explore our pinned repositories below to see our latest code, tools, and publications.* * **Lab Website:** [https://hangwoonlee.faculty.wvu.edu/]
-* **Contact:** [hangwoon.lee@mail.wvu.edu]
+* **Lab Website:** https://hangwoonlee.faculty.wvu.edu/
+* **Contact:** hangwoon.lee@mail.wvu.edu
 * **Location:** West Virginia University, Morgantown, WV

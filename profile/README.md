@@ -45,14 +45,18 @@ Our research is actively applied across a variety of cutting-edge space domains:
 * **Cislunar Space**
 * **On-Orbit Servicing & Space Logistics**
 
-[**Lab Overview**](assets/ssorl_2026_quadchart.png)
+[**Lab Overview**](assets/ssorl_2026_quadchart.png)assets/ssorl_2026_quadchart.png
+
+<p align="center">
+    <img src="assets/ssorl_2026_quadchart.png" alt="SSORL Lab Overview Quad Chart" width="90%">
+</p>
 
 ---
 
 ## Visualizing Our Work
 
 <p align="center">
-  <img src="assets/isl_seminar 2.gif" alt="Optimized Cislunar Constellation" width="48%">
+  <img src="assets/isl_seminar%202.gif" alt="Optimized Cislunar Constellation" width="48%">
   <img src="assets/Cislunar_Scheduling_Animation.gif" alt="Earth-Based Satellite Constellation Network" width="48%">
   <br>
   <em>Caption: Constellation design and optimization research.</em>

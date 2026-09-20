@@ -1,69 +1,26 @@
-# Space Systems Operations Research Laboratory (SSORL)
-
-Welcome to the **Space Systems Operations Research Laboratory (SSORL)** at West Virginia University (WVU)! 
-
-SSORL is a research laboratory within the **Department of Mechanical, Materials and Aerospace Engineering** at WVU. Led by **Dr. Hang Woon Lee**, SSORL advances the field of space systems operations research by developing innovative mathematical modeling and optimization methods. These methods are tailored to the unique dynamics, constraints, and uncertainties inherent in astrodynamics and space systems, addressing complex decision-making challenges throughout the entire system life cycle.
-
-## Our Mission
-
-> *Our mission is to uncover new design and operational architectures that remain invisible to current methods, pushing the boundaries of what space systems can achieve.*
-
----
-
-## Research
-
-### What is Space Systems Operations Research?
-Space systems operations research is an interdisciplinary field that integrates **operations research**, **astrodynamics**, and **space systems engineering** to optimize the design, operation, and management of space systems. 
-
-It emphasizes mission feasibility and operational risk assessment, with the goal of enhancing performance, reliability, and cost-effectiveness throughout the system life cycle.
-
----
-
-## Methods
-
-We leverage advanced computational, mathematical, and analytical techniques to solve complex space architecture problems:
-
-* **Modeling & Simulation**
-    * Graph theoretic modeling, complex networks, information theory
-* **Mathematical Optimization**
-    * Discrete optimization, decomposition-based techniques
-    * Nonlinear programming, large-scale multidisciplinary design optimization
-* **Artificial Intelligence**
-
----
-
-## Application Domains
-
-Our research is actively applied across a variety of cutting-edge space domains:
-
-* **Distributed Satellite Systems**
-    * Satellite constellations, formation flying, satellite networks
-    * Earth observations, telecommunications, positioning, navigation & timing
-* **Space Traffic Management**
-    * Orbital debris remediation, Space domain awareness
-* **In-Space Mobility** (Orbital maneuvers, constellation reconfiguration)
-* **Cislunar Space**
-* **On-Orbit Servicing & Space Logistics**
+<p align="center">
+  <a href="https://hangwoonlee.faculty.wvu.edu/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Space-Systems-Operations-Research-Lab/.github/main/assets/ssorl-logo-reversed.svg">
+      <img src="https://raw.githubusercontent.com/Space-Systems-Operations-Research-Lab/.github/main/assets/ssorl-logo.svg" alt="SSORL: Space Systems Operations Research Laboratory" width="440">
+    </picture>
+  </a>
+</p>
 
 <p align="center">
-    <img src="../assets/ssorl_2026_quadchart.png" alt="SSORL Lab Overview Quad Chart" width="90%">
+  Mathematical modeling and optimization for the design and operation of space systems<br>
+  <a href="https://hangwoonlee.faculty.wvu.edu/">Website</a> ·
+  <a href="https://hangwoonlee.faculty.wvu.edu/publications">Publications</a> ·
+  <a href="https://hangwoonlee.faculty.wvu.edu/people">People</a> ·
+  <a href="https://hangwoonlee.faculty.wvu.edu/contact">Contact</a>
 </p>
 
 ---
 
-## Visualizing Our Work
+SSORL is a research laboratory in the Department of Mechanical, Materials and Aerospace Engineering at West Virginia University, led by [Dr. Hang Woon Lee](https://hangwoonlee.faculty.wvu.edu/people/faculty/hang-woon-lee). We develop mathematical modeling and optimization methods tailored to the dynamics, constraints, and uncertainties of astrodynamics and space systems, and apply them to decision-making problems across the system life cycle.
 
-<p align="center">
-  <img src="../assets/isl_seminar%202.gif" alt="Optimized Cislunar Constellation" height="280">
-  <img src="../assets/Cislunar_Scheduling_Animation.gif" alt="Earth-Based Satellite Constellation Network" height="280">
-  <br>
-  <em>Constellation design and optimization research.</em>
-</p>
+**Application areas:** satellite constellations, in-space mobility, space traffic management, cislunar space, and on-orbit servicing and space logistics.
 
----
+## Software
 
-## Connect with Us
-
-* **Lab Website:** https://hangwoonlee.faculty.wvu.edu/
-* **Contact:** hangwoon.lee@mail.wvu.edu
-* **Location:** West Virginia University, Morgantown, WV
+- **[Constellation-Design-MILP-Collection](https://github.com/Space-Systems-Operations-Research-Lab/Constellation-Design-MILP-Collection)** (MATLAB). Mixed integer linear programs for optimal satellite constellation configuration design. Accompanies David Williams Rogers, Dongshik Won, Dongwook Koh, Kyungwoo Hong, and Hang Woon Lee, "Optimal Satellite Constellation Configuration Design: A Collection of Mixed Integer Linear Programs," *Journal of Spacecraft and Rockets*, vol. 63, no. 4, pp. 1144-1162, 2026. [DOI](https://doi.org/10.2514/1.A36518) · [arXiv](https://arxiv.org/abs/2507.09855) · [MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/184557-satellite-constellation-configuration-design-optimization)
